@@ -4,7 +4,7 @@ package main
 import "log"
 
 func main() {
-	log.Print("hello")
+	log.Print("this is a test")
 }
 
 // Gist
