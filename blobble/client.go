@@ -1,5 +1,5 @@
 package blobble
 
 func GetDetails() string {
-	return "wow"
+	return "wow this is gonna be good"
 }
