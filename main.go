@@ -1,0 +1,10 @@
+// Gist:example.go
+package main
+
+import "log"
+
+func main() {
+	log.Print("hello")
+}
+
+// Gist
